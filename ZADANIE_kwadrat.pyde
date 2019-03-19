@@ -1,4 +1,4 @@
-location = PVector(0, 300) 
+location = PVector(0, 200) 
 velocity = PVector(1, 1)
 
 def setup():
